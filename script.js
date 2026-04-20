@@ -15,7 +15,7 @@ const noMessages = [
     "Dengo, por favor... 🥺",
     "Se você disser não, eu vou ficar muito triste..",
     "MUITO triste, vida... 😢",
-    "Por favor, minha carioca??? 💔",
+    "Por favor... 💔",
     "Não faz isso comigo...",
     "Última chance, carioca! 😭",
     "Você não pode dizer não de qualquer jeito 😜"

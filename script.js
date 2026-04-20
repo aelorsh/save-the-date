@@ -13,18 +13,18 @@ const noMessages = [
     "Não",
     "Você não é positiva? 🤔",
     "Dengo, por favor... 🥺",
-    "Se você disse não, eu vou ficar muito triste..",
-    "MUITO tirste... 😢",
-    "Por favor??? 💔",
+    "Se você disser não, eu vou ficar muito triste..",
+    "MUITO triste... 😢",
+    "Por favor, vida??? 💔",
     "Não faz isso comigo...",
-    "última chance! 😭",
+    "Última chance, carioca! 😭",
     "Você não pode dizer não de qualquer jeito 😜"
 ]
 
 const yesTeasePokes = [
-    "Tente dizer não primeiro... IEu aposto que você quer saber o que acontece 😏",
-    "Vá em frente... 👀",
-    "Você está perdendo a oportunidade! 😈",
+    "Tente dizer não primeiro... Eu aposto que você quer saber o que acontece 😏",
+    "Vá em frente, clica não... 👀",
+    "Você está perdendo uma oportunidade! 😈",
     "Clique não, eu te desafio! 😏"
 ]
 
